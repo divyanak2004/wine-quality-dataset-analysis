@@ -28,9 +28,9 @@ The analysis is divided into several steps, including:
 
 *Results and Conclusion:* The analysis results are summarized, and conclusions are drawn regarding the most important factors influencing wine quality.
 
-RESULT
+**RESULT**
 
-Sweeter wines recived higher average rating by 0.01 more.
+Sweeter wines recived higher average rating.
 
 Wines with higher alcohol content received higher rating.
 
@@ -38,7 +38,7 @@ Positive relation to quality with alcohol.
 
 Alcohol is the most important feature that influence the quality of wine.
 
-CONTACT
+**CONTACT**
 
 Divyanka Lakhwani
 
