@@ -5,14 +5,14 @@
 
 This repository contains an analysis of the Wine Quality dataset, which explores the factors influencing the quality of wines. The dataset consists of various attributes related to wine composition and quality ratings.The dataset consists of two separate datasets, one for red wine and one for white wine.
 
-DATASET
+**DATASET**
 
 Red Wine Dataset: [http://localhost:8888/edit/winequality-red.csv](http://localhost:8888/edit/winequality-red.csv)
 
 White Wine Dataset: [http://localhost:8888/edit/winequality-white.csv
 ](http://localhost:8888/edit/winequality-white.csv)
 
-ANALYSIS
+**ANALYSIS**
 
 The analysis is divided into several steps, including:
 
